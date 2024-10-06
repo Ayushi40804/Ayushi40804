@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushi40804&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @ayushi40804's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushi40804)](https://holopin.io/@ayushi40804)
