@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hacktoberfest<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Cyber Security<br>⚡ Fun fact
+🔭 I’m currently working on RE-DACT Project<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Cyber Security<br>
 
 
 ## 🌐 Socials:
