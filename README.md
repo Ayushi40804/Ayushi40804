@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RE-DACT Project<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Cyber Security<br>
+🔭 I’m currently working on RE-DACT Project(Cyber and ML)<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning Cyber and AI/ML<br>💬 Ask me about Harry Potter<br>
 
 
 ## 🌐 Socials:
