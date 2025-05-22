@@ -14,6 +14,9 @@ I’m currently working on RE-DACT Project(Cyber and ML)<br>I’m looking to col
 ![](https://github-readme-stats.vercel.app/api?username=ayushi40804&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushi40804&theme=neon&hide_border=false)<br/>
 
+<hr>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ayushi40804)](https://leetcode.com/Ayushi40804)
 
 # Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayushi40804) 
