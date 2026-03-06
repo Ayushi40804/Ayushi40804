@@ -1,5 +1,5 @@
 # Hi! :)
-I’m currently working on RE-DACT Project(Cyber and ML)<br>I’m looking to collaborate on AI/ML Projects<br>I’m currently learning Cyber and AI/ML<br>
+<br>I’m currently learning Cyber and AI/ML<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=ayushi40804&icon=2&color=1)](https://visitcount.itsvg.in)
